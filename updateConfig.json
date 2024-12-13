@@ -1,0 +1,16 @@
+{
+    "update": false,
+    "targetUpdateFile": [
+        "client.exe",
+        "config.json"
+    ],
+    "targetDeleteFile": [
+        
+    ],
+    "targetCreateFolder": [
+
+    ],
+    "targetDeleteFolder": [
+
+    ]
+}
